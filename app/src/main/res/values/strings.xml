@@ -1,0 +1,24 @@
+<resources>
+    <array name="tasbeh_azkar">
+        <item>سبحان الله</item>
+        <item>الحمد لله</item>
+        <item>لا اله الا الله</item>
+        <item>الله أكبر</item>
+    </array>
+    <string name="app_name">Quran</string>
+    <string name="title_activity_home">Home</string>
+    <string name="quran">Quran</string>
+    <string name="azkar">Azkar</string>
+    <string name="ahadith">Ahadith</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tase7_total">محموع التسبيحات</string>
+    <string name="tasbeh">التسبيحة</string>
+    <string name="alme">المسبحة الالكترونية</string>
+    <string name="radio">Radio</string>
+    <string name="error">Error</string>
+    <string name="cannotconnecttoserver">can not connect to server</string>
+    <string name="loading">loading</string>
+    <string name="please_wait">please wait</string>
+</resources>
