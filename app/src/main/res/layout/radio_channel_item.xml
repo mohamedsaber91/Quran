@@ -32,7 +32,7 @@
         android:id="@+id/stop_"
         android:layout_width="77dp"
         android:layout_height="38dp"
-        android:src="@drawable/ic_action_stop"
+        app:srcCompat="@drawable/ic_action_stop"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/play_"
